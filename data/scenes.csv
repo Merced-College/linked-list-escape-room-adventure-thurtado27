@@ -4,3 +4,4 @@ sceneId,title,description,imagePath,itemName,itemDescription,choice1Text,choice1
 3,Security Office,A desk drawer is slightly open.,images/office.jpg,Keycard,A plastic keycard labeled Level 1.,Go to the Hallway,4,Return to the Lobby,1
 4,Hallway,A long hallway leads to the final exit door.,images/hallway.jpg,none,none,Go to the Exit Door,5,Return to the Lobby,1
 5,Exit Door,A locked exit door stands before you.,images/exit.jpg,none,none,Try to unlock the door,5,Give up,1
+6,You Escaped!,You unlocked the door and escaped!,images/end.jpg,none,none,Play Again,1,Exit,6
